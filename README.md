@@ -1,8 +1,8 @@
-### Olá! aqui quem vos fala é o Eredaze
+### Olá! aqui é o Junior!
 
 - 🔭 Trabalho na empresa 'Supermercado Irmãos Gonçalves.
 - 🌱 Estudando Desenvolvimento Web.
-- 😄 Futuro programador Profissional?
+- 😄 Futuro programador Profissional.
 
 <div align="center">
   <a href="https://github.com/Eredaze">
